@@ -1,0 +1,49 @@
+### Hi I'm João👋
+~~~javascript
+function me(me){
+
+ if(me === false){
+  
+   return('Wait only for truths around here my friend!!');
+ }else{
+   return(
+     {
+      communication:'⭐⭐⭐⭐⭐',
+      resilience:'⭐⭐⭐⭐⭐',
+      teamWork:'⭐⭐⭐⭐⭐',
+      ethic:'⭐⭐⭐⭐⭐',
+      confidence:'⭐⭐⭐⭐⭐',
+  
+      parameters:{
+        terrible:'⭐',
+        amazing:'⭐⭐⭐⭐⭐'
+      }})}
+    }
+  
+~~~
+
+
+- 🌱 I’m currently learning node.js, react.js...
+- 💬 Contact email:joao280799@gmail.com
+- 📫 How to reach me: João A#8987(discord)
+- ⚡ I'm not a disciple of any programming language, but I really like javascript
+- ❤️ Code war lover
+
+
+<div align="center">
+  <a href="https://github.com/luse-cmd"> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luse-cmd&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luse-cmd&layout=compact&langs_count=7&theme=dark"/>
+</a>
+</div>
+  <div style="display: inline_block"><br>
+  <img align="center" alt="Joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Joao-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Joao-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Joao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Joao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+
+
+
+  
