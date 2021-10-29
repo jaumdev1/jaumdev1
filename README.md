@@ -31,9 +31,9 @@ function me(me){
 
 
 <div align="center">
-  <a href="https://github.com/luse-cmd"> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luse-cmd&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luse-cmd&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/joao-dev1"> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joao-dev1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-dev1&layout=compact&langs_count=7&theme=dark"/>
 </a>
 </div>
   <div style="display: inline_block"><br>
