@@ -23,7 +23,7 @@ function me(me){
 ~~~
 
 
-- 🌱 I’m currently learning node.js, react.js...
+- 🌱 I’m currently learning c#, vue.js, react.js...
 - 💬 Contact email:joao280799@gmail.com
 - 📫 How to reach me: João A#8987(discord)
 - ⚡ I'm not a disciple of any programming language, but I really like javascript
