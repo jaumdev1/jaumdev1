@@ -1,10 +1,10 @@
 ### Hi I'm João👋
-~~~javascript
-function me(me){
+~~~c#
+ public int( bool me){
 
  if(me === false){
   
-   return('Wait only for truths around here my friend!!');
+   return("Wait only for truths around here my friend!!");
  }else{
    return(
      {
