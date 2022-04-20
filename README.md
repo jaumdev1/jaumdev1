@@ -1,24 +1,21 @@
 ### Hi I'm João👋
 ~~~c#
- public int( bool me){
+ 
+        public string Life(bool me)
+        {
 
- if(me === false){
-  
-   return("Wait only for truths around here my friend!!");
- }else{
-   return(
-     {
-      communication:'⭐⭐⭐⭐⭐',
-      resilience:'⭐⭐⭐⭐⭐',
-      teamWork:'⭐⭐⭐⭐⭐',
-      ethic:'⭐⭐⭐⭐⭐',
-      confidence:'⭐⭐⭐⭐⭐',
-  
-      parameters:{
-        terrible:'⭐',
-        amazing:'⭐⭐⭐⭐⭐'
-      }})}
-    }
+            if (me == false)
+            {
+
+                return ("life is more than that");
+            }
+            else
+            {
+                return ("only you know that answer, your life is yours alone");
+                 
+            }
+            
+            }
   
 ~~~
 
