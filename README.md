@@ -5,16 +5,9 @@
         {
 
             if (me == false)
-            {
-
-                return ("life is more than that");
-            }
+                return ("life is more than that");            
             else
-            {
                 return ("only you know that answer, your life is yours alone");
-                 
-            }
-            
         }
   
 ~~~
