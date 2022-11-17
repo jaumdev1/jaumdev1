@@ -17,7 +17,6 @@
 - 💬 Contact email:joao280799@gmail.com
 - 📫 How to reach me: João A#8987(discord)
 - ⚡ I'm not a disciple of any programming language, but I really like javascript
-- ❤️ Code war lover
 
 
 <div align="center">
