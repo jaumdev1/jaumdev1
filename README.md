@@ -13,16 +13,16 @@
 ~~~
 
 
-- 🌱 I’m currently learning c#, vue.js, react.js...
-- 💬 Contact email:joao280799@gmail.com
-- 📫 How to reach me: João A#8987(discord)
-- ⚡ I'm not a disciple of any programming language, but I really like javascript
+- 🌱 I’m currently learning c#, vue.js, react.js, c, c++, cobol, assembly, computer architecturem, logic circuits and digital circuits...
+- 💬 Contact email:joao280799@gmail.com;
+- 📫 How to reach me: João A#8987(discord);
+- ⚡ I'm not a disciple of any programming language, but I really like c, c++, c#;
 
 
 <div align="center">
   <a href="https://github.com/joao-dev1"> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joao-dev1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-dev1&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaumdev1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaumdev1&layout=compact&langs_count=7&theme=dark"/>
 </a>
 </div>
   <div style="display: inline_block"><br>
