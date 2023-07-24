@@ -1,16 +1,5 @@
 ### Hi I'm João👋
-~~~c#
- 
-        public string Life(bool me)
-        {
 
-            if (me == false)
-                return ("life is more than that");            
-            else
-                return ("only you know that answer, your life is yours alone");
-        }
-  
-~~~
 
 
 - 🌱 I’m currently learning c#, vue.js, react.js, c, c++, cobol, assembly, computer architecture, logic circuits and digital circuits...
