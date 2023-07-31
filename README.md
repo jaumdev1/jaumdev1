@@ -1,6 +1,6 @@
 ### Hi I'm João👋
 
-
+i think you have so much skill and potential but the problem is your mindset
 
 - 🌱 I’m currently learning c#, vue.js, react.js, c, c++, cobol, assembly, computer architecture, logic circuits and digital circuits...
 - 💬 Contact email:joao280799@gmail.com;
