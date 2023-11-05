@@ -1,7 +1,7 @@
 
 i think you have so much skill and potential but the problem is your mindset
 
-- 🌱 I’m currently learning c#, vue.js, react.js, c, c++, cobol, assembly, computer architecture, logic circuits and digital circuits...
+- 🌱 I’m currently learning c#, vue.js, react.js, c, c++, cobol, assembly, computer architecture, logic circuits and digital circuits, blazor...
 - 💬 Contact email:joao280799@gmail.com;
 - 📫 How to reach me: João A#8987(discord);
 - ⚡ I'm not a disciple of any programming language, but I really like c, c++, c#;
