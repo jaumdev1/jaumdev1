@@ -6,10 +6,11 @@ i think you have so much skill and potential but the problem is your mindset
 - 📫 How to reach me: João A#8987(discord);
 - ⚡ I'm not a disciple of any programming language, but I really like c, c++, c# e go;
 
-  
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
-[![Frameworks and Libraries](https://skillicons.dev/icons?i=js,html,go,java,php,cs,css,cpp,c,vue,wasm,dotnet,linux,docker,dotnet,vim,ts,react,jquery,lua,aws,gcp,azure,rust,scala&theme=light)](https://skillicons.dev)
+ ### Programming languages 
+[![Programming languages](https://skillicons.dev/icons?i=js,html,go,java,php,cs,css,cpp,c,vue,wasm,dotnet,linux,docker,dotnet,vim,ts,react,jquery,lua,aws,gcp,azure,rust,scala&theme=light)](https://skillicons.dev)
+ ### Technologies and Tools
 [![Technologies and Tools](https://skillicons.dev/icons?i=git,kubernetes,docker,vim&theme=light)](https://skillicons.dev)
+ ### Frameworks and Libraries
 [![Frameworks and Libraries](https://skillicons.dev/icons?i=react,jquery&theme=light)]
 
 
