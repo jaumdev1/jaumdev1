@@ -11,7 +11,7 @@ i think you have so much skill and potential but the problem is your mindset
  ### Technologies and Tools
 [![Technologies and Tools](https://skillicons.dev/icons?i=git,kubernetes,docker,vim&theme=light)](https://skillicons.dev)
  ### Frameworks and Libraries
-[![Frameworks and Libraries](https://skillicons.dev/icons?i=react,jquery&theme=light)]
+[![Frameworks and Libraries](https://skillicons.dev/icons?i=react,jquery&theme=light)](https://skillicons.dev)
 
 
 <div align="center">
