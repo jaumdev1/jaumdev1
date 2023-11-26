@@ -2,16 +2,16 @@ As a seasoned developer, my expertise lies in .NET/C#/ASP.Net MVC. I have hands-
 
 I hold specialization in Software Testing from the Federal University of Minas Gerais. My knowledge extends to Java, C, C++, PHP, web and desktop application development, low-level systems, performance optimization, computer graphics, and the Laravel framework.
 
-    🌱 Currently expanding my skills in C#, Vue.js, React.js, C, C++, COBOL, Assembly, computer architecture, logic circuits, digital circuits, Blazor, and more.
-    💬 Contact email: jaumrodrii@gmail.com;
-    ⚡ I don't align myself exclusively with any programming language, but I have a strong affinity for C, C++, C#, and Go.
+🌱 Currently expanding my skills in C#, Vue.js, React.js, C, C++, COBOL, Assembly, computer architecture, logic circuits, digital circuits, Blazor, and more.
+💬 Contact email: jaumrodrii@gmail.com;
+⚡ I don't align myself exclusively with any programming language, but I have a strong affinity for C, C++, C#, and Go.
 
  ### Programming languages and Techniques
 [![Programming languages](https://skillicons.dev/icons?i=js,html,go,java,php,cs,css,cpp,c,vue,wasm,dotnet,linux,docker,dotnet,vim,ts,react,jquery,lua,aws,gcp,azure,rust,scala&perline=5&theme=light)](https://skillicons.dev)
- ### Technologies and Tools
-[![Technologies and Tools](https://skillicons.dev/icons?i=git,kubernetes,docker,vim&theme=light)](https://skillicons.dev)
- ### Frameworks and Libraries
-[![Frameworks and Libraries](https://skillicons.dev/icons?i=react,jquery&theme=light)](https://skillicons.dev)
+ ### Technologies, Tools, Frameworks and Libraries
+[![Technologies and Tools](https://skillicons.dev/icons?i=git,kubernetes,docker,vim&,react,jquerytheme=light)](https://skillicons.dev)
+ ### 
+[![Frameworks and Libraries](https://skillicons.dev/icons?i=&theme=light)](https://skillicons.dev)
 
 
 <div align="center">
