@@ -13,6 +13,7 @@ I hold specialization in Software Testing from the Federal University of Minas G
  ### Technologies, Tools and Libraries
 [![Technologies and Tools](https://skillicons.dev/icons?i=git,kubernetes,docker,react,jquerytheme=light)](https://skillicons.dev)
 
+[![Technologies and Tools](https://skillicons.dev/icons?i=discord,bots,redis,redux,sass,sequelize,postgres,mongodb,cloudflare,selenium,jquerytheme=light)](https://skillicons.dev)
 
 
 <div align="center">
