@@ -1,12 +1,12 @@
+I believe you possess remarkable skills and immense potential. The key challenge lies in refining your mindset.
 
-i think you have so much skill and potential but the problem is your mindset
+As a seasoned developer, my expertise lies in .NET/C#/ASP.Net MVC. I have hands-on experience with Angular, Node.js, SQL Server, Oracle, jQuery, JavaScript/TypeScript, HTML5, CSS3, and Docker. Proficient in Linux, React.js, Vue.js, object-oriented programming, and clean architecture patterns, I am currently delving into SOA design patterns. I hold specialization in Software Testing from the Federal University of Minas Gerais. My knowledge extends to Java, C, C++, PHP, web and desktop application development, low-level systems, performance optimization, computer graphics, and the Laravel framework.
 
-- 🌱 I’m currently learning c#, vue.js, react.js, c, c++, cobol, assembly, computer architecture, logic circuits and digital circuits, blazor...
-- 💬 Contact email:joao280799@gmail.com;
-- 📫 How to reach me: João A#8987(discord);
-- ⚡ I'm not a disciple of any programming language, but I really like c, c++, c# e go;
+    🌱 Currently expanding my skills in C#, Vue.js, React.js, C, C++, COBOL, Assembly, computer architecture, logic circuits, digital circuits, Blazor, and more.
+    💬 Contact email: jaumrodrii@gmail.com;
+    ⚡ I don't align myself exclusively with any programming language, but I have a strong affinity for C, C++, C#, and Go.
 
- ### Programming languages 
+ ### Programming languages and Techniques
 [![Programming languages](https://skillicons.dev/icons?i=js,html,go,java,php,cs,css,cpp,c,vue,wasm,dotnet,linux,docker,dotnet,vim,ts,react,jquery,lua,aws,gcp,azure,rust,scala&perline=5&theme=light)](https://skillicons.dev)
  ### Technologies and Tools
 [![Technologies and Tools](https://skillicons.dev/icons?i=git,kubernetes,docker,vim&theme=light)](https://skillicons.dev)
