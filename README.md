@@ -7,7 +7,7 @@ i think you have so much skill and potential but the problem is your mindset
 - ⚡ I'm not a disciple of any programming language, but I really like c, c++, c# e go;
 
   
-[![My Skills](https://skillicons.dev/icons?i=js,html,go,java,php,css,cpp,c,vue,linux,docker,dotnet,vim,ts,react,jquery,lua,aws,gcp,azure,rust,scala)]()
+[![My Skills](https://skillicons.dev/icons?i=js,html,go,java,php,css,cpp,c,vue,c#,linux,docker,dotnet,vim,ts,react,jquery,lua,aws,gcp,azure,rust,scala)]()
 
 
 
