@@ -8,13 +8,9 @@ i think you have so much skill and potential but the problem is your mindset
 
   
 
-
-### Todas as Linguagens de Programação:
-- [Todas as Linguagens de Programação](https://skillicons.dev/icons?i=js,html,go,java,php,cs,css,cpp,c,vue,wasm,dotnet,linux,docker,dotnet,vim,ts,react,jquery,lua,aws,gcp,azure,rust,scala&theme=light,&perline=3 ) 
-### Todas as Tecnologias e Ferramentas:
-- [Todas as Tecnologias e Ferramentas](https://skillicons.dev/icons?i=git,kubernetes,docker,vim&theme=light) 
-### Todas as Frameworks e Bibliotecas:
-- [Todas as Frameworks e Bibliotecas](https://skillicons.dev/icons?i=react,jquery&theme=light)
+[Todas as Linguagens de Programação](https://skillicons.dev/icons?i=js,html,go,java,php,cs,css,cpp,c,vue,wasm,dotnet,linux,docker,dotnet,vim,ts,react,jquery,lua,aws,gcp,azure,rust,scala&theme=light,&perline=3 ) 
+[Todas as Tecnologias e Ferramentas](https://skillicons.dev/icons?i=git,kubernetes,docker,vim&theme=light) 
+[Todas as Frameworks e Bibliotecas](https://skillicons.dev/icons?i=react,jquery&theme=light)
 
 
 <div align="center">
