@@ -1,4 +1,6 @@
-As a seasoned developer, my expertise lies in .NET/C#/ASP.Net MVC. I have hands-on experience with Angular, Node.js, SQL Server, Oracle, jQuery, JavaScript/TypeScript, HTML5, CSS3, and Docker. Proficient in Linux, React.js, Vue.js, object-oriented programming, and clean architecture patterns, I am currently delving into SOA design patterns. I hold specialization in Software Testing from the Federal University of Minas Gerais. My knowledge extends to Java, C, C++, PHP, web and desktop application development, low-level systems, performance optimization, computer graphics, and the Laravel framework.
+As a seasoned developer, my expertise lies in .NET/C#/ASP.Net MVC. I have hands-on experience with Angular, Node.js, SQL Server, Oracle, jQuery, JavaScript/TypeScript, HTML5, CSS3, and Docker. Proficient in Linux, React.js, Vue.js, object-oriented programming, and clean architecture patterns, I am currently delving into SOA design patterns. 
+
+I hold specialization in Software Testing from the Federal University of Minas Gerais. My knowledge extends to Java, C, C++, PHP, web and desktop application development, low-level systems, performance optimization, computer graphics, and the Laravel framework.
 
     🌱 Currently expanding my skills in C#, Vue.js, React.js, C, C++, COBOL, Assembly, computer architecture, logic circuits, digital circuits, Blazor, and more.
     💬 Contact email: jaumrodrii@gmail.com;
