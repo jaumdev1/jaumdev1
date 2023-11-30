@@ -6,7 +6,7 @@ I hold specialization in Software Testing from the Federal University of Minas G
 
 💬 Contact email: jaumrodrii@gmail.com;
 
-⚡ I don't align myself exclusively with any programming language, but I have a strong affinity for C, C++, C#, and Go.
+⚡ I don't align myself exclusively with any programming language, but I have a strong affinity for C, C++, C#, and Go...
 
  ### Programming languages and Techniques
 [![Programming languages](https://skillicons.dev/icons?i=js,html,go,java,php,cs,css,cpp,c,vue,wasm,dotnet,linux,vim,ts,react,jquery,lua,aws,gcp,azure,rust,scala&perline=5&theme=light)](https://skillicons.dev)
