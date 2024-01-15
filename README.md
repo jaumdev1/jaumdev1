@@ -6,7 +6,7 @@ I hold specialization in Software Testing from the Federal University of Minas G
 
 🌱 Currently expanding my skills in C#, Vue.js, React.js, C, C++, COBOL, Assembly, computer architecture, logic circuits, digital circuits, Blazor, and more.
 
-💬 Contact email: [jaumrodrii@gmail.com]
+💬 Contact email: [antoniojoaossh@gmail.com]
 
 ⚡ I don't align myself exclusively with any programming language, but I have a strong affinity for C, C++, C#, and Go...
 
