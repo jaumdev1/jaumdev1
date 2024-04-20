@@ -8,7 +8,7 @@ I hold specialization in Software Testing from the Federal University of Minas G
 
 💬 Contact email: [antoniojoaossh@gmail.com]
 
-⚡ I don't align myself exclusively with any programming language, but I have a strong affinity for C, C++, C#, and Go...
+⚡ I don't align myself exclusively with any programming language, but I have a strong affinity for C, C++, C#,F#, and Go...
 
 
  ### Programming languages and Techniques
@@ -25,6 +25,8 @@ I hold specialization in Software Testing from the Federal University of Minas G
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaumdev1&layout=compact&langs_count=15&theme=dark"/>
 </a>
 </div>
+
+
 
 
 
