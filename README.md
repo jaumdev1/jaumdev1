@@ -12,7 +12,7 @@ I hold specialization in Software Testing from the Federal University of Minas G
 
 
  ### Programming languages and Techniques
-[![Programming languages](https://skillicons.dev/icons?i=js,html,go,java,php,cs,css,cpp,c,vue,wasm,dotnet,linux,vim,ts,react,jquery,lua,aws,gcp,azure,rust,scala&perline=5&theme=light)](https://skillicons.dev)
+[![Programming languages](https://skillicons.dev/icons?i=js,html,angular,java,spring,cs,css,c,vue,wasm,dotnet,linux,vim,ts,react,jquery,lua,aws,gcp,azure,rust,scala&perline=5&theme=light)](https://skillicons.dev)
  ### Technologies, Tools and Libraries
 [![Technologies and Tools](https://skillicons.dev/icons?i=git,kubernetes,docker,react,jquerytheme=light)](https://skillicons.dev)
 
