@@ -2,17 +2,17 @@ As a seasoned developer, my expertise lies in .NET/C#/ASP.Net MVC / Java. I have
 
 I specialize in clean architecture for the C# language, with knowledge of DDD and TDD with a focus on clean architecture and complex system design decisions and RESTful APIs.
 
-I hold specialization in Software Testing from the Federal University of Minas Gerais. My knowledge extends to Java, C, C++, PHP, web and desktop application development, low-level systems, performance optimization, computer graphics, and the Laravel framework.
+My knowledge extends to Java, C, C++, GO, web and desktop application development, low-level systems, performance optimization, computer graphics, and the Laravel framework.
 
-🌱 Currently expanding my skills in C#, Vue.js, React.js, C, C++, COBOL, Assembly, computer architecture, logic circuits, digital circuits, Blazor, and more.
+🌱 Currently expanding my skills in Java, GO, React.js, C, C++, COBOL, Assembly, computer architecture, logic circuits, digital circuits, and more.
 
 💬 Contact email: [antoniojoaossh@gmail.com]
 
-⚡ I don't align myself exclusively with any programming language, but I have a strong affinity for C, C++, C#,F#, and Go...
+⚡ I don't align myself exclusively with any programming language, but I have a strong affinity for C, C++, Java, and Go...
 
 
  ### Programming languages and Techniques
-[![Programming languages](https://skillicons.dev/icons?i=js,html,angular,java,spring,cs,css,c,vue,wasm,dotnet,linux,vim,ts,react,jquery,lua,aws,gcp,azure,rust,kafka,rabbitmq,newrelic&perline=5&theme=light)](https://skillicons.dev)
+[![Programming languages](https://skillicons.dev/icons?i=js,java,spring,cs,c,wasm,linux,vim,ts,react,jquery,lua,aws,gcp,rust,kafka,rabbitmq,newrelic&perline=5&theme=light)](https://skillicons.dev)
  ### Technologies, Tools and Libraries
 [![Technologies and Tools](https://skillicons.dev/icons?i=git,kubernetes,docker,react,jquerytheme=light)](https://skillicons.dev)
 
