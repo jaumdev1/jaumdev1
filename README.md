@@ -1,4 +1,4 @@
-As a seasoned developer, my expertise lies in .NET/C#/ASP.Net MVC / Java. I have hands-on experience with Angular, Node.js, SQL Server, Oracle, jQuery, JavaScript/TypeScript, HTML5, CSS3, and Docker. Proficient in Linux, React.js, Vue.js, object-oriented programming, and clean architecture patterns, I am currently delving into SOA design patterns. 
+As a seasoned developer, my expertise lies in C#/GO/C++/C/Java. I have hands-on experience with Angular, Node.js, jQuery, JavaScript/TypeScript, and Docker. Proficient in Linux, React.js, Vue.js, object-oriented programming, and clean architecture patterns, I am currently delving into SOA design patterns. 
 
 I specialize in clean architecture for the C# language, with knowledge of DDD and TDD with a focus on clean architecture and complex system design decisions and RESTful APIs.
 
